@@ -1,0 +1,79 @@
+abstract class Routes {
+  static const SPLASH = '/SPLASH';
+
+  static const String LOGIN_SCREEN = '/LOGIN_SCREEN';
+
+  static const REGISTER_COMPETITOR_SCREEN = '/REGISTER_COMPETITOR_SCREEN';
+
+  static const REGISTER_SPECTATOR_SCREEN = '/REGISTER_SPECTATOR_SCREEN';
+
+  static const String REGISTER_SPACTATOR2_SCREEN =
+      "/REGISTER_SPACTATOR2_SCREEN";
+
+  static const REGISTER_TYPE_SCREEN = '/REGISTER_TYPE_SCREEN';
+
+  static const String RESEND_CODE_SCREEN = '/RESEND_CODE_SCREEN';
+
+  static const ENTER_MOBILE_SCREEN = '/ENTER_MOBILE_SCREEN';
+  static const String VERIFY_PHONE_SCREEN = '/VERIFY_PHONE_SCREEN';
+
+  static const String ACCOUNT_CREATED_SCREEN = '/ACCOUNT_CREATED_SCREEN';
+
+  static const String ENABLE_LOCATION_SCREEN = '/ENABLE_LOCATION_SCREEN';
+
+  static const String HOME_SCREEN = '/HOME_SCREEN';
+
+  static const String COMPETITOR_PUBLIC_PROFILE_SCREEN =
+      "/COMPETITOR_PUBLIC_PROFILE_SCREEN";
+
+  static const String MAP_SCREEN = "/MAP_SCREEN";
+
+  static const String FEED_SCREEN = "/FEED_SCREEN";
+
+  static const String FEED_POST_SCREEN = "/FEED_POST_SCREEN";
+
+  static const String SCHEDULE_DETAILS_SCREEN = "/SCHEDULE_DETAILS_SCREEN";
+
+  static const String RESULT_DETAILS_SCREEN = "/RESULT_DETAILS_SCREEN";
+
+  static const String EDIT_PROFILE_SCREEN = "/EDIT_PROFILE_SCREEN";
+
+  static const String WORK_OUT_SCREEN = "/WORK_OUT_SCREEN";
+
+  static const String SOCIAL_SHARE_SCREEN = "/SOCIAL_SHARE_SCREEN";
+
+  static const String RESULT_COMPETITOR_PROFILE_SCREEN =
+      "/RESULT_COMPETITOR_PROFILE_SCREEN";
+
+  static const String COMPETITOR_PROFILE_SCREEN = "/COMPETITOR_PROFILE_SCREEN";
+
+  static const String EDIT_COMPETITOR_PROFILE_SCREEN =
+      "/EDIT_COMPETITOR_PROFILE_SCREEN";
+
+  static const String SPECTATOR_PROFILE_SCREEN = "/SPECTATOR_PROFILE_SCREEN";
+
+  static const String EDIT_SPECTATOR_PROFILE_SCREEN =
+      "/EDIT_SPECTATOR_PROFILE_SCREEN";
+
+  static const String VERIFY_EMAIL_SCREEN = "/VERIFY_EMAIL_SCREEN";
+
+  static const String FEED_POST_WEBVIEW_SCREEN = "/FEED_POST_WEBVIEW_SCREEN";
+
+  static const String SPECIAL_AWARD_SCREEN = "/SPECIAL_AWARD_SCREEN";
+
+  static const String APP_DRAWER = "/APP_DRAWER";
+
+  static const String TiCKET_SCREEN = "/TiCKET_SCREEN";
+
+  static const String CONTACT_SCREEN = "/CONTACT_SCREEN";
+
+  static const String FAQS_SCREEN = "/FAQS_SCREEN";
+
+  static const String RESET_PASSWORD_SCREEN = "/RESET_PASSWORD_SCREEN";
+
+  static const String RULES_AND_REGULATIONS_SCREEN =
+      "/RULES_AND_REGULATIONS_SCREEN";
+
+  static const String NOTIFICATION_PREFERENCE_SCREEN =
+      "/NOTIFICATION_PREFERENCE_SCREEN";
+}

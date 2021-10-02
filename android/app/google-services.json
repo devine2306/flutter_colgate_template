@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607550919799",
+    "project_id": "colgate-2dd12",
+    "storage_bucket": "colgate-2dd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607550919799:android:f3770cfbfb7cb12b22e272",
+        "android_client_info": {
+          "package_name": "com.micrasol.colgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607550919799-dcs89vrqqrrfi1ccbjdqiu0gge24s6uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micrasol.colgate",
+            "certificate_hash": "19976791106f7f0cb8e04c84834ab20c130ec9cb"
+          }
+        },
+        {
+          "client_id": "607550919799-06uu0c9gvds3n59nkrmaki68f17f1uop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcdNLsNAnAmWdkmjQMWHxgSr-a09M0es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607550919799-06uu0c9gvds3n59nkrmaki68f17f1uop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
